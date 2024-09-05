@@ -1,0 +1,6 @@
+Selectores
+Etiqueta, Identificador, Clase
+Pseudo Etiquetas
+Selector o un Conjunto{
+    atributo: valor;
+}

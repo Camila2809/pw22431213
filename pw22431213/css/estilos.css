@@ -1,0 +1,21 @@
+body{
+    border: 3px solid rgb(100, 175, 236);
+    font-size: 16px;
+    max-width: 1024px;
+    margin: 0px auto;
+}
+header nav ul {
+    text-align: center;
+}
+header nav ul li{
+    background: cornflowerblue;
+    color: aliceblue;
+   border: 2px solid cornflowerblue;
+   display: inline-block;
+   margin-right: 20px;
+   padding: 16px 26px;
+}
+header nav ul li:hover{
+    background: rgb(181, 205, 248);
+    color: cornflowerblue;
+}
